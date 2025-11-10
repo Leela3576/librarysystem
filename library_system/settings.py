@@ -30,7 +30,7 @@ DEBUG = os.environ.get('DEBUG', 'True') == 'True'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS =  ['LMS.onrender.com', 'localhost','127.0.0.1']
+ALLOWED_HOSTS =  ['library-management-project-amm1.onrender.com', 'localhost','127.0.0.1']
 
 
 
