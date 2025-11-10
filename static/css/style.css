@@ -1,0 +1,14 @@
+body {
+    background-color: #f5f7fa;
+    font-family: "Poppins", sans-serif;
+}
+h1, h2 {
+    font-weight: 600;
+}
+.table {
+    border-radius: 10px;
+    overflow: hidden;
+}
+.btn {
+    border-radius: 20px;
+}
